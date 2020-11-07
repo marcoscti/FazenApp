@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687473139119",
+    "firebase_url": "https://fazenapp-30b53.firebaseio.com",
+    "project_id": "fazenapp-30b53",
+    "storage_bucket": "fazenapp-30b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687473139119:android:a2c00ed2179ff34fe2235a",
+        "android_client_info": {
+          "package_name": "br.com.augeinfo.fazenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687473139119-oqb44gts5u6pjjrg0b3tjqjjcdcm7jvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcYQH9jjXT8_CnobPSJ_UmIZ22Hma4cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687473139119-oqb44gts5u6pjjrg0b3tjqjjcdcm7jvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
